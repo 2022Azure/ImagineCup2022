@@ -1,16 +1,19 @@
 {
   "name": "vision-app",
-  "private":"true",
+  "private": "true",
   "homepage": "https://visionganges.azurewebsites.net/",
   "version": "0.1.0",
   "dependencies": {
+    "@googlemaps/react-wrapper": "^1.1.20",
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
+    "azure-maps-control": "^2.1.8",
     "bootstrap": "^5.1.3",
     "react": "^17.0.1",
+    "react-azure-maps": "^0.3.0",
     "react-bootstrap": "^2.1.0",
     "react-dom": "^17.0.1",
     "react-icons": "^4.1.0",
@@ -29,11 +32,11 @@
     "src/favicon.ico",
     "src/assets",
     "src/web.config"
-],
+  ],
   "eslintConfig": {
     "extends": [
       "react-app",
-      "react-app/jest" 
+      "react-app/jest"
     ]
   },
   "browserslist": {
