@@ -1,0 +1,69 @@
+:root {
+  --main-bg-color: #212529;
+  --secondary-bg-color: #343a40;
+  --light-green-bg: #d0dec0;
+
+  --dark: #212529;
+  --mid-grey: #343a40;
+  --grey: #555555;
+  --light-grey: #f0f0f0;
+  --dark-teal: #037272;
+  --teal: #368f8b;
+  --light-teal: #dbe9e9;
+  --dark-blue: #2e4871;
+
+  --orange: #f5a503;
+  --white: #f0efeb;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+body {
+  margin: 0;
+  font-family: 'Hind Siliguri', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--black);
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* BACKGROUND COLOR*/
+.white-bg {
+  background-color: var(--white);
+}
+.dark-bg {
+  background-color: var(--dark);
+}
+.light-green-bg {
+  background-color: var(--light-green-bg);
+}
+.light-grey {
+  background-color: var(--light-grey);
+}
+.light-teal {
+  background-color: var(--light-teal);
+}
+.teal {
+  background-color: var(--teal);
+}
+.dark-teal {
+  background-color: var(--dark-teal);
+}
+
+/* TEXT COLOR */
+.dark-font {
+  color: var(--dark);
+}
+.light-font {
+  color: var(--white);
+}
