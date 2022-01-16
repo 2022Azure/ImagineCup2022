@@ -1,4 +1,4 @@
-- 👋 Hi, This is @Azure2022 project repo "VISION".
+- 👋 Hi, This is @Azure2022 project repo for "VISION" - a Reactjs application 
 - 📫 Hosted by Harsh Rahul & Abhinav team ganges...
 
 <!---
