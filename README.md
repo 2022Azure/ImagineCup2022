@@ -1,5 +1,5 @@
-- 👋 Hi, This is @2022Azure
-- 📫 Hosted by Harsh Rahul & Abhinav ...
+- 👋 Hi, This is @Azure2022 project repo "VISION".
+- 📫 Hosted by Harsh Rahul & Abhinav team ganges...
 
 <!---
 2022Azure/2022Azure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
